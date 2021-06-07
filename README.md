@@ -3,3 +3,5 @@
 <br>
 
 ## Source : https://nomadcoders.co/
+
+#### https://kimmingki.github.io/kokoa-clone-2020/
